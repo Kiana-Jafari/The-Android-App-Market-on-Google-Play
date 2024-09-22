@@ -1,6 +1,6 @@
 ### The Android App Market on Google Play
 
-Welcome! This project analyzes the Android app market dataset from Google Play, presents an exploratory data analysis (EDA), and explores key aspects like app categories, ratings, downloads, and pricing models (free vs. paid). The analysis investigates key metrics like app ratings, install counts, and app categories, offering insights into the factors influencing app performance and user engagement. We also examined the data through charts and statistical summaries to visualize and compare the performance of free and paid apps, identify rating distributions, and assess install patterns.
+Welcome! This project analyzes the Android app market dataset from Google Play, presents an exploratory data analysis (EDA), and explores key aspects like app categories, ratings, downloads, and pricing models (free vs. paid). The analysis investigates key metrics, offering insights into the factors influencing app performance and user engagement. We also examined the data through charts and statistical summaries to visualize and compare the performance of free and paid apps, identify rating distributions, and to assess install patterns.
 
 This project:
 - Conducted an in-depth analysis of over 10,000 Android apps from the Google Play Store to explore market trends, app performance, and user feedback
